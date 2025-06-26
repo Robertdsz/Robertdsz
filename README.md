@@ -79,8 +79,6 @@ Me chamo Robert Zica, sou natural de Minas Gerais e atualmente curso Ciência da
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <table>
   <tr>
     <td>
