@@ -79,15 +79,24 @@ Me chamo Robert Zica, sou natural de Minas Gerais e atualmente curso Ciência da
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Robertdsz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdsz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-</div>
+### 📊 Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=Robertdsz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Languages" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdsz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      />
+    </td>
+  </tr>
+</table>
+
