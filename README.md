@@ -1,8 +1,16 @@
 # 👩🏻‍💻 Robert Zica
 
-**`Desenvolvedor Web FullStack`**
+**`Desenvolvedor Java`**
 
-Me chamo Robert Zica, sou natural de Minas Gerais e atualmente curso Ciência da Computação. Tenho grande interesse em desenvolvimento web e estou me especializando para atuar como desenvolvedor fullstack. Estou sempre em busca de aprender novas tecnologias, construir projetos práticos e compartilhar meu progresso. Aqui no GitHub, você vai encontrar parte dessa jornada, com projetos pessoais e estudos voltados para o desenvolvimento web.
+👋 Olá! Me chamo Robert Zica, sou de Minas Gerais e estou no 7º período de Ciência da Computação.
+
+Atualmente me especializando em **Java Backend** com foco em Spring Boot, JPA e APIs REST. Tenho background em desenvolvimento web (HTML, CSS, Bootstrap, Node.js e Express), o que me dá uma visão completa do ciclo de desenvolvimento.
+
+Aqui no GitHub você vai acompanhar minha evolução — desde os fundamentos do Java até projetos completos com Spring Boot e banco de dados.
+
+🚀 **Tecnologias em estudo:** Java • Spring Boot • JPA • MySQL
+💼 **Background:** HTML • CSS • Bootstrap • JavaScript • Node.js
+🎓 **Formação:** Ciência da Computação (conclusão em 2026)
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -73,28 +81,3 @@ Me chamo Robert Zica, sou natural de Minas Gerais e atualmente curso Ciência da
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Robertdsz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Languages" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdsz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
-      />
-    </td>
-  </tr>
-</table>
-
