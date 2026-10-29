@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-👋 Olá! Me chamo Robert Zica, sou de Minas Gerais e estou no 7º período de Ciência da Computação.
+👋 Olá! Me chamo Robert Zica, sou de Minas Gerais e estou no 8º período de Ciência da Computação.
 
 Atualmente me especializando em **Java Backend** com foco em Spring Boot, JPA e APIs REST. Tenho background em desenvolvimento web (HTML, CSS, Bootstrap, Node.js e Express), o que me dá uma visão completa do ciclo de desenvolvimento.
 
